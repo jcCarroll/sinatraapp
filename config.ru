@@ -1,2 +1,2 @@
 require './helloworld'
-run Sinatra::Application
+run Sinatra::Applicationeb open
